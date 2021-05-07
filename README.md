@@ -5,19 +5,19 @@ cd hw01\
 npm init -y\
 npm install express\
 Edit index.js (requires express listen a port)\
-Edit package.json (add script command: "start" as "node index.js") \\
+Edit package.json (add script command: "start" as "node index.js")
 
 npm start\
-See result\\
+See result
 
-Edit index to support different HTTP requests (get/post/etc...)\
-See result\\
+Edit index to support different HTTP requests (get/post/etc...)
+See result
 
 Change the HTML content\
-See result\\
+See result
 
 Add index.html\
-See result\\
+See result
 
 Create GitHub Repository\
 有些檔案我不想放在 Git 裡面…\
