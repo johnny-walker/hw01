@@ -3,8 +3,6 @@
 //https://www.tutorialspoint.com/http/http_status_codes.htm (HTTP response status codes)
 
 var express = require('express');
-var path = require('path');
-
 var app = express();
 
 
