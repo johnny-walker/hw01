@@ -22,3 +22,8 @@ See result
 Create GitHub Repository\
 有些檔案我不想放在 Git 裡面…\
 create a file ".gitignore" and add file list on it, then Git will not add them while doing "git add ."
+
+Add index.css\
+See result (CSS not working)
+
+Modify index.js to make it work 
