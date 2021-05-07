@@ -4,8 +4,8 @@ mkdir hw01\
 cd hw01\
 npm init -y\
 npm install express\
-Edit index.js (requires express to listen to a specified port)\
-Edit package.json (add script command: "start" as "node index.js")
+Create index.js and edit it (requires express to listen to a specified port)\
+Edit package.json (add script command: "start" by "node index.js")
 
 npm start\
 See result
