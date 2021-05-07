@@ -10,7 +10,7 @@ Edit package.json (add script command: "start" as "node index.js")
 npm start\
 See result
 
-Edit index to support different HTTP requests (get/post/etc...)
+Edit index.js to support different HTTP requests (get/post/etc...)
 See result
 
 Change the HTML content\
@@ -21,4 +21,4 @@ See result
 
 Create GitHub Repository\
 有些檔案我不想放在 Git 裡面…\
-create a file ".gitignore" and add file list on it, then Git will not commit them
+create a file ".gitignore" and add file list on it, then Git will not add them while doing "git add ."
