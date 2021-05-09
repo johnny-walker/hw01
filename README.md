@@ -13,7 +13,7 @@ See result
 Edit index.js to support different HTTP requests (get/post/etc...)
 See result
 
-create and change the HTML content\
+create index.html and change the HTML content\
 See result
 
 Create GitHub Repository\
