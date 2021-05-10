@@ -7,7 +7,7 @@ var app = express();
 
 
 app.get('/', function (req, res) {
-    console.log(res.url);
+    console.log(req.url);
     res.sendFile( __dirname + '/' + 'index.html');
 });
 
