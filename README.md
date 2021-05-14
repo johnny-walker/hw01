@@ -24,3 +24,11 @@ Modify index.js to make it work
 Create GitHub Repository\
 有些檔案我不想放在 Git 裡面…\
 create a file ".gitignore" and add file list on it, then Git will not add them while doing "git add ."
+
+# Homework02
+add todo (https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_todo)
+
+update "home" page to link to "todo" page\
+update index.js (backend server/app)\
+create html/css/js for "todo" page\
+design the page 
