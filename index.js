@@ -11,6 +11,11 @@ app.get('/', function (req, res) {
     res.sendFile( __dirname + '/' + 'index.html');
 });
 
+app.get('/todo', function (req, res) {
+    console.log(req.url);
+    res.sendFile( __dirname + '/src/' + 'todo.html');
+});
+
 app.get('/*', function (req, res) {
     console.log(req.url);
     res.sendFile( __dirname + '/' + req.url);
