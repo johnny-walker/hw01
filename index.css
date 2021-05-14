@@ -1,6 +1,9 @@
-p {
-    color: rgb(192, 13, 138);
+span {
+    color: rgb(162, 13, 192);
+    font-size: 24px;
+    padding: 3px;
+    vertical-align: top;
 }
-ul {
-    color: rgb(68, 0, 255);
+a {
+    color: rgb(17, 0, 255);
 }

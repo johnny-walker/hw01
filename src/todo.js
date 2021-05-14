@@ -1,4 +1,4 @@
-function bodyloaded() {
+function bodyLoaded() {
     console.log("loadscript");
 
     // Create a "close" button and append it to each list item
