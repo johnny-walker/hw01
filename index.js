@@ -13,7 +13,7 @@ app.get('/', function (req, res) {
 
 app.get('/todo', function (req, res) {
     console.log(req.url);
-    res.sendFile( __dirname + '/src/' + 'todo.html');
+    res.sendFile( __dirname + '/src/todo/' + 'todo.html');
 });
 
 app.get('/*', function (req, res) {
